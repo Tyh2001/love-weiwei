@@ -1,0 +1,50 @@
+.data_Box_top,
+.data_Box {
+  width: 80vw;
+  margin: auto;
+  background: #fff;
+  box-shadow: 0 2px 16px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 20rpx;
+  padding: 20rpx;
+  box-sizing: border-box;
+  font-size: 28rpx;
+}
+
+.data_Box_top {
+  margin-top: 99rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+  line-height: 70rpx;
+}
+
+.data_Box {
+  margin-top: 40rpx;
+}
+
+.data_Box .text_title {
+  color: #333;
+  font-weight: 600;
+  color: skyblue;
+  font-size: 33rpx;
+  line-height: 52rpx;
+  margin-left: 40rpx;
+}
+
+.data_Box .text {
+  color: #333;
+  font-size: 27rpx;
+  line-height: 52rpx;
+  margin-left: 40rpx;
+}
+
+.data_Box .photo_box {
+  text-align: center;
+}
+
+.data_Box .photo_box .my_img_a {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+}

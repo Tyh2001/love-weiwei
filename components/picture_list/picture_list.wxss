@@ -1,0 +1,33 @@
+.picture_list {
+  position: relative;
+}
+
+.picture_list image {
+  width: 330rpx;
+  height: 240rpx;
+  border-radius: 13px;
+  margin-top: 10px;
+}
+
+.picture_list .time {
+  padding: 0 20rpx;
+  height: 35rpx;
+  position: absolute;
+  background: #fff;
+  bottom: 20rpx;
+  right: 20rpx;
+  border-radius: 50rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25rpx;
+  opacity: .6;
+}
+
+.picture_list .place {
+  position: absolute;
+  color: #fff;
+  top: 40rpx;
+  left: 30rpx;
+  font-size: 40rpx;
+}

@@ -1,0 +1,7 @@
+<view class="title">法喜寺</view>
+
+<view class="time">2021-10-17</view>
+
+<view class="all_images">
+  <image mode="widthFix" show-menu-by-longpress class="item_img" wx:for="{{img_list}}" wx:key="index" src="{{item}}" />
+</view>

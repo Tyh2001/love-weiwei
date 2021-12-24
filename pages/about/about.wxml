@@ -1,0 +1,48 @@
+<view class="about">
+  <view class="about_box">
+    <view class="about_user">
+      <image class="my_img_a" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_Z.jpg" />
+      <image class="my_img_b" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_T.jpg" />
+    </view>
+
+    <view class="about_option">
+      {{ say_text }}
+    </view>
+
+    <view class="about_list">
+      <view class="about_list_title">关于我们</view>
+
+      <view class="about_list_item" bindtap="weiBir">
+        <view>
+          <text class="tyh-icon tyh-shengri" />
+          维维生日
+        </view>
+        <text class="tyh-icon tyh-xiangyou" />
+      </view>
+
+      <view class="about_list_item" bindtap="tianBir">
+        <view>
+          <text class="tyh-icon tyh-shengri" />
+          甜甜生日
+        </view>
+        <text class="tyh-icon tyh-xiangyou" />
+      </view>
+
+      <view class="about_list_item" bindtap="togetherTime">
+        <view>
+          <text class="tyh-icon tyh-aixin" />
+          在一起时间
+        </view>
+        <text class="tyh-icon tyh-xiangyou" />
+      </view>
+
+      <view class="about_list_item" bindtap="lovaOath">
+        <view>
+          <text class="tyh-icon tyh-qingshu_line" />
+          爱情誓言
+        </view>
+        <text class="tyh-icon tyh-xiangyou" />
+      </view>
+    </view>
+  </view>
+</view>

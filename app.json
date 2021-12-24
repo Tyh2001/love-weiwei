@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/we/we",
+    "pages/anniversary/anniversary",
+    "pages/oath/oath",
+    "pages/data/data",
+    "pages/faxi/faxi",
+    "pages/about/about",
+    "pages/xing/xing",
+    "pages/record/record",
+    "pages/lingyin/lingyin",
+    "pages/xihu/xihu",
+    "pages/yishang/yishang",
+    "pages/leifeng/leifeng"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFC0CB",
+    "navigationBarTitleText": "💕维维很哇塞～",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#41a9df",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/we/we",
+        "text": "我们",
+        "iconPath": "/images/xing.jpg",
+        "selectedIconPath": "/images/xing_click.jpg"
+      },
+      {
+        "pagePath": "pages/record/record",
+        "text": "记录",
+        "iconPath": "/images/jilu.jpg",
+        "selectedIconPath": "/images/jilu_click.jpg"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "关于",
+        "iconPath": "/images/we.jpg",
+        "selectedIconPath": "/images/we_click.jpg"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

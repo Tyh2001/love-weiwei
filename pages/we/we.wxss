@@ -1,0 +1,112 @@
+.banner_option {
+  position: relative;
+  width: 100vw;
+}
+
+.banner_option .swiper,
+.banner_option .swiper image {
+  height: 700rpx;
+  width: 100vw;
+}
+
+.banner_option .option {
+  position: absolute;
+  width: 94vw;
+  height: 250rpx;
+  background: #fff;
+  right: 0;
+  left: 0;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: -30px;
+  z-index: 300;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+
+.banner_option .option .option_basics {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.banner_option .option .option_basics .anniversary,
+.banner_option .option .option_basics .data,
+.banner_option .option .option_basics .oath {
+  width: 129rpx;
+  height: 129rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner_option .option .option_basics .anniversary .image,
+.banner_option .option .option_basics .data .image,
+.banner_option .option .option_basics .oath .image {
+  width: 90rpx;
+  height: 90rpx;
+}
+
+.banner_option .option .option_basics .anniversary .text,
+.banner_option .option .option_basics .data .text,
+.banner_option .option .option_basics .oath .text {
+  font-size: 25rpx;
+}
+
+.option .option_title,
+.picture .picture_title {
+  text-align: center;
+  color: #333333;
+  font-weight: 600;
+  line-height: 40px;
+}
+
+.picture {
+  width: 100vw;
+  padding-top: 210rpx;
+  height: 800rpx;
+}
+
+.picture .picture_list {
+  width: 94vw;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+}
+
+.picture .picture_list .picture_list_item {
+  width: 330rpx;
+  height: 500rpx;
+  margin-top: 10px;
+  border-radius: 13px;
+  position: relative;
+  overflow: hidden;
+}
+
+.picture .picture_list .picture_list_item .swiper {
+  width: 330rpx;
+  height: 500rpx;
+}
+
+.picture .picture_list .picture_list_item .data {
+  padding: 0 20rpx;
+  height: 35rpx;
+  position: absolute;
+  background: #fff;
+  bottom: 20rpx;
+  right: 20rpx;
+  border-radius: 50rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25rpx;
+  opacity: .6;
+}
+
+.picture .picture_list .picture_list_item .picture_list_img {
+  border-radius: 13px;
+  width: 330rpx;
+  height: 500rpx;
+}

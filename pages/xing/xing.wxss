@@ -1,0 +1,25 @@
+.title {
+  font-size: 50rpx;
+  font-weight: 600;
+  color: #333333;
+  margin-left: 35rpx;
+  margin-top: 50rpx;
+}
+
+.time {
+  color: #3f536e;
+  margin-left: 35rpx;
+  line-height: 80rpx;
+}
+
+.all_images {
+  width: 95vw;
+  margin: auto;
+  padding-bottom: 100rpx;
+}
+
+.item_img {
+  width: 100%;
+  margin-top: 30rpx;
+  border-radius: 20rpx;
+}

@@ -1,0 +1,21 @@
+.record {
+  text-align: center;
+}
+
+.record .record_image {
+  width: 90vw;
+  margin-top: 90rpx;
+  border-radius: 20rpx;
+}
+
+.record_time {
+  text-align: center;
+  font-weight: 600;
+  color: pink;
+  line-height: 40px;
+}
+
+.text {
+  text-align: center;
+  line-height: 40px;
+}

@@ -1,0 +1,12 @@
+<view class="record">
+  <image class="record_image" mode="widthFix" show-menu-by-longpress
+    src="https://tianyuhao.cn/images/xiaochengxu_wei/banner-4.jpg" />
+</view>
+
+<view class="text">维维很哇塞💕甜甜很哇塞</view>
+
+<view class="text">忠于对方，往后余生，彼此珍惜</view>
+
+<view class="text">我们已经在一起了：</view>
+
+<view class="record_time">{{ time }}</view>

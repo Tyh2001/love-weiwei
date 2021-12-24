@@ -1,0 +1,132 @@
+.big_box {
+  width: 80vw;
+  margin: auto;
+  background: #fff;
+  box-shadow: 0 2px 16px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 20rpx;
+  padding: 20rpx 20rpx 50rpx 20rpx;
+  box-sizing: border-box;
+  margin-top: 99rpx;
+}
+
+/* 纪念日盒子 */
+.big_box .bac_box_jinian {
+  background: pink;
+  border-radius: 7rpx;
+  padding: 40rpx;
+  box-sizing: border-box;
+}
+
+.big_box .bac_box_jinian .title {
+  font-weight: 600;
+  color: #fff;
+  font-size: 64rpx;
+  margin-top: 45rpx;
+}
+
+.big_box .bac_box_jinian .sm_title {
+  color: #fff;
+  font-size: 25rpx;
+  margin-top: 20rpx;
+}
+
+.big_box .bac_box_jinian .day {
+  width: 110rpx;
+  height: 70rpx;
+  background: #fff;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: pink;
+  font-size: 35rpx;
+  margin-top: 50rpx;
+  border-radius: 20rpx;
+}
+
+
+/* 正常盒子 */
+.big_box .bac_box {
+  background: skyblue;
+  border-radius: 7rpx;
+  padding: 40rpx;
+  box-sizing: border-box;
+}
+
+.big_box .bac_box .title {
+  font-weight: 600;
+  color: #fff;
+  font-size: 64rpx;
+  margin-top: 45rpx;
+}
+
+.big_box .bac_box .sm_title {
+  color: #fff;
+  font-size: 25rpx;
+  margin-top: 20rpx;
+}
+
+.big_box .bac_box .day {
+  width: 110rpx;
+  height: 70rpx;
+  background: #fff;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: skyblue;
+  font-size: 35rpx;
+  margin-top: 50rpx;
+  border-radius: 20rpx;
+}
+
+.big_box .dateTime {
+  color: #333;
+  font-size: 29rpx;
+  margin-top: 30rpx;
+}
+
+.big_box .dateTime .week {
+  color: #515a6e;
+  margin-left: 20rpx;
+}
+
+.big_box .day_say_text {
+  margin-top: 40rpx;
+  color: #515a6e;
+  font-size: 24rpx;
+}
+
+/* 时间盒子 */
+.time_box {
+  width: 80vw;
+  margin: auto;
+  background: #fff;
+  box-shadow: 0 2px 16px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 20rpx;
+  padding: 50rpx 20rpx 50rpx 20rpx;
+  box-sizing: border-box;
+  margin-top: 49rpx;
+}
+
+.time_box .togetherYear {
+  font-size: 26rpx;
+  color: skyblue;
+  font-weight: 600;
+  line-height: 40rpx;
+  text-align: center;
+}
+
+.time_box .year {
+  font-size: 60rpx;
+  text-align: center;
+  line-height: 140rpx;
+  color: pink;
+  font-weight: 700;
+}
+
+.time_box .surplus {
+  color: #333;
+  font-size: 24rpx;
+  text-align: center;
+}

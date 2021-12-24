@@ -1,0 +1,5 @@
+<view class="picture_list">
+  <image src="{{url}}"></image>
+  <view class="time">{{ time }}</view>
+  <view class="place">{{ place }}</view>
+</view>

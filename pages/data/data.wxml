@@ -1,0 +1,25 @@
+<view class="data_Box_top">
+  我们在一起时间：2021-08-15
+</view>
+
+<view class="data_Box">
+  <view class="photo_box">
+    <image class="my_img_a" mode="widthFix" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_Z.jpg" />
+  </view>
+  <view class="text_title">维维</view>
+  <view class="text">昵称：甜甜很哇塞～</view>
+  <view class="text">生日：1998-10-18</view>
+  <view class="text">星座：天秤座</view>
+  <view class="text">微博：Fighting维​​</view>
+</view>
+
+<view class="data_Box">
+  <view class="photo_box">
+    <image class="my_img_a" mode="widthFix" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_T.jpg" />
+  </view>
+  <view class="text_title">甜甜</view>
+  <view class="text">昵称：维维很哇塞～</view>
+  <view class="text">生日：2001-09-17</view>
+  <view class="text">星座：处女座</view>
+  <view class="text">微博：钟爱维维呀</view>
+</view>

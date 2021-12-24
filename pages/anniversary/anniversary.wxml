@@ -1,0 +1,34 @@
+<view class="big_box">
+  <view class="bac_box" wx:if="{{ !isDay }}">
+    <view class="title">Hello~</view>
+
+    <view class="sm_title">元气满满的一天</view>
+
+    <view class="sm_title">就在</view>
+
+    <view class="day">今天</view>
+  </view>
+
+  <view class="bac_box_jinian" wx:else>
+    <view class="title">Hello~</view>
+
+    <view class="sm_title">纪念日</view>
+
+    <view class="sm_title">就在</view>
+
+    <view class="day">今天</view>
+  </view>
+
+  <view class="dateTime">
+    <text class="day">{{ dateTime }}</text>
+    <text class="week">{{ week }}</text>
+  </view>
+
+  <view class="day_say_text">{{ day_say_text }}</view>
+</view>
+
+<view class="time_box">
+  <view class="togetherYear">我们已经在一起了：</view>
+  <view class="year">{{ togetherYear }}年</view>
+  <view class="surplus">距离纪念日还有{{ surplusTime }}天</view>
+</view>

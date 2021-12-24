@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "tyh-icon";
+  src: url('//at.alicdn.com/t/font_2911980_uhz20k2qnx.ttf?t=1635922109763') format('truetype');
+}
+
+.tyh-icon {
+  font-family: "tyh-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tyh-xiangyou:before {
+  content: "\e666";
+}
+
+.tyh-aixin:before {
+  content: "\eca1";
+}
+
+.tyh-qingshu_line:before {
+  content: "\e614";
+}
+
+.tyh-shengri:before {
+  content: "\e7a6";
+}
+
+
+.about {
+  width: 100vw;
+  height: 100vh;
+  background: url("https://tianyuhao.cn/images/xiaochengxu_wei/background.jpg") no-repeat center;
+  background-size: cover;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.about .about_box {
+  margin-top: 70rpx;
+}
+
+.about .about_box .about_user {
+  text-align: center;
+}
+
+.about .about_box .about_user .my_img_a,
+.about .about_box .about_user .my_img_b {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+}
+
+.about .about_box .about_option {
+  width: 94vw;
+  height: 160rpx;
+  background: #fff;
+  border-radius: 20rpx;
+  margin: auto;
+  margin-top: 50rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32rpx;
+  color: cornflowerblue;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+
+.about .about_box .about_list {
+  width: 94vw;
+  background: #fff;
+  border-radius: 20rpx;
+  margin: 22rpx auto;
+  padding: 12rpx 26rpx;
+  box-sizing: border-box;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+
+.about .about_box .about_list .about_list_title {
+  color: #333333;
+  font-weight: 600;
+  line-height: 40px;
+}
+
+.about .about_box .about_list .about_list_item {
+  font-size: 25rpx;
+  line-height: 90rpx;
+  padding-left: 10rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

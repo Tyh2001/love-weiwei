@@ -1,0 +1,54 @@
+<view class="banner_option">
+  <swiper class="swiper" autoplay interval="2000" circular>
+    <swiper-item wx:for="{{banner_img}}" wx:key="index">
+      <image class="images" src="{{item}}"></image>
+    </swiper-item>
+  </swiper>
+
+  <view class="option">
+    <view class="option_title">— 基础功能 —</view>
+    <view class="option_basics">
+      <navigator url="/pages/anniversary/anniversary">
+        <view class="anniversary">
+          <image class="image" src="https://tianyuhao.cn/images/xiaochengxu_wei/jinianri.jpg" />
+          <view class="text">纪念日</view>
+        </view>
+      </navigator>
+      <navigator url="/pages/data/data">
+        <view class="data">
+          <image class="image" src="https://tianyuhao.cn/images/xiaochengxu_wei/ziliao.jpg" />
+          <view class="text">资料</view>
+        </view>
+      </navigator>
+      <navigator url="/pages/oath/oath">
+        <view class="oath">
+          <image class="image" src="https://tianyuhao.cn/images/xiaochengxu_wei/shiyan.jpg" />
+          <view class="text">誓言</view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>
+
+<view class="picture">
+  <view class="picture_title">— 精选照片 —</view>
+  <view class="picture_list">
+    <view class="picture_list_item">
+      <swiper class="swiper" autoplay interval="2000" circular>
+        <swiper-item wx:for="{{list_img}}" wx:key="index">
+          <image class="picture_list_img" src="{{item}}"></image>
+        </swiper-item>
+      </swiper>
+      <view class="data">2021-11-02</view>
+    </view>
+    <view>
+      <navigator wx:for="{{list_top}}" url="{{item.pageUrl}}" wx:key="index">
+        <picture_list time="{{item.time}}" place="{{item.place}}" url="{{item.imgUrl}}" />
+      </navigator>
+    </view>
+
+    <navigator wx:for="{{list_all}}" url="{{item.pageUrl}}" wx:key="index">
+      <picture_list time="{{item.time}}" place="{{item.place}}" url="{{item.imgUrl}}" />
+    </navigator>
+  </view>
+</view>
