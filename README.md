@@ -6,7 +6,7 @@
 
 ## 🌻 线上体验
 
-<img width="180px" src="https://tianyuhao.cn/images/love-weiwei/auto/6.jpg">
+<img width="210px" src="https://tianyuhao.cn/images/love-weiwei/auto/6.jpg">
 
 ## 🙏 贡献者
 
