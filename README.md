@@ -6,10 +6,10 @@
 
 ## 🌻 线上体验
 
-<img width="160px" src="https://tianyuhao.cn/images/love-weiwei/auto/6.jpg">
+<img width="210px" src="https://tianyuhao.cn/images/love-weiwei/auto/6.jpg">
 
 ## 🙏 贡献者
 
 该仓库由 [Tyh2001](https://github.com/Tyh2001) 提供。
 
-![](https://tianyuhao.cn/images/weixin2.png)
+![](https://tianyuhao.cn/images/auto/weixin.png)
