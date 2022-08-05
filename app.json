@@ -11,7 +11,10 @@
     "pages/lingyin/lingyin",
     "pages/xihu/xihu",
     "pages/yishang/yishang",
-    "pages/leifeng/leifeng"
+    "pages/linping/linping",
+    "pages/leifeng/leifeng",
+    "pages/xiamen/xiamen",
+    "pages/nanjing/nanjing"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -1,0 +1,7 @@
+<view class="title">厦门</view>
+
+<view class="time">2022-06-22</view>
+
+<view class="all_images">
+  <image mode="widthFix" show-menu-by-longpress class="item_img" wx:for="{{img_list}}" wx:key="index" src="{{item}}" />
+</view>

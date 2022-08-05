@@ -60,6 +60,18 @@ Page({
         time: '2021-11-21',
         place: '雷峰塔',
         imgUrl: 'https://tianyuhao.cn/images/love-weiwei/leifengta/6.jpg'
+      },
+      {
+        pageUrl: '/pages/xiamen/xiamen',
+        time: '2022-06-22',
+        place: '厦门',
+        imgUrl: 'https://tianyuhao.cn/images/love-weiwei/xiamen/6.jpg'
+      },
+      {
+        pageUrl: '/pages/nanjing/nanjing',
+        time: '2022-07-30',
+        place: '南京',
+        imgUrl: 'https://tianyuhao.cn/images/love-weiwei/nanjing/6.jpg'
       }
     ]
   },
