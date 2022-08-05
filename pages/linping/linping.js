@@ -6,11 +6,11 @@ Page({
    */
   data: {
     img_list: [
-      'https://tianyuhao.cn/images/xiaochengxu_wei/linpinggongyuan/1.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/linpinggongyuan/2.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/linpinggongyuan/3.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/linpinggongyuan/4.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/linpinggongyuan/5.jpg'
+      'https://tianyuhao.cn/images/love-weiwei/linpinggongyuan/1.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/linpinggongyuan/2.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/linpinggongyuan/3.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/linpinggongyuan/4.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/linpinggongyuan/5.jpg'
     ]
   },
 

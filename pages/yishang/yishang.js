@@ -6,11 +6,11 @@ Page({
    */
   data: {
     img_list: [
-      'https://tianyuhao.cn/images/xiaochengxu_wei/yishangxiaozhen/1.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/yishangxiaozhen/2.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/yishangxiaozhen/3.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/yishangxiaozhen/4.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/yishangxiaozhen/5.jpg'
+      'https://tianyuhao.cn/images/love-weiwei/yishangxiaozhen/1.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/yishangxiaozhen/2.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/yishangxiaozhen/3.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/yishangxiaozhen/4.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/yishangxiaozhen/5.jpg'
     ]
   },
 

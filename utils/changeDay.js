@@ -1,7 +1,7 @@
   // 计算纪念日还剩多少天
   function getDateRegion(beginDate, endDate) {
     if (beginDate != '' && endDate != '') {
-      var aDate, oDate1, oDate2, iDays
+      let aDate, oDate1, oDate2, iDays
       if (beginDate.length == 8) {
         beginDate = beginDate.substr(0, 4) + '-' + beginDate.substr(4, 2) + '-' + beginDate.substr(6, 2)
       }

@@ -10,19 +10,19 @@
     <view class="option_basics">
       <navigator url="/pages/anniversary/anniversary">
         <view class="anniversary">
-          <image class="image" src="https://tianyuhao.cn/images/xiaochengxu_wei/jinianri.jpg" />
+          <image class="image" src="https://tianyuhao.cn/images/love-weiwei/auto/3.jpg" />
           <view class="text">纪念日</view>
         </view>
       </navigator>
       <navigator url="/pages/data/data">
         <view class="data">
-          <image class="image" src="https://tianyuhao.cn/images/xiaochengxu_wei/ziliao.jpg" />
+          <image class="image" src="https://tianyuhao.cn/images/love-weiwei/auto/4.jpg" />
           <view class="text">资料</view>
         </view>
       </navigator>
       <navigator url="/pages/oath/oath">
         <view class="oath">
-          <image class="image" src="https://tianyuhao.cn/images/xiaochengxu_wei/shiyan.jpg" />
+          <image class="image" src="https://tianyuhao.cn/images/love-weiwei/auto/5.jpg" />
           <view class="text">誓言</view>
         </view>
       </navigator>

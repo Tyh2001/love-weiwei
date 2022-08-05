@@ -4,7 +4,7 @@
 
 <view class="data_Box">
   <view class="photo_box">
-    <image class="my_img_a" mode="widthFix" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_Z.jpg" />
+    <image class="my_img_a" mode="widthFix" src="https://tianyuhao.cn/images/love-weiwei/auto/1.jpg" />
   </view>
   <view class="text_title">维维</view>
   <view class="text">昵称：甜甜很哇塞～</view>
@@ -15,7 +15,7 @@
 
 <view class="data_Box">
   <view class="photo_box">
-    <image class="my_img_a" mode="widthFix" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_T.jpg" />
+    <image class="my_img_a" mode="widthFix" src="https://tianyuhao.cn/images/love-weiwei/auto/2.jpg" />
   </view>
   <view class="text_title">甜甜</view>
   <view class="text">昵称：维维很哇塞～</view>

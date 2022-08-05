@@ -6,11 +6,11 @@ Page({
    */
   data: {
     img_list: [
-      'https://tianyuhao.cn/images/xiaochengxu_wei/faxisi/1.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/faxisi/2.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/faxisi/3.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/faxisi/4.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/faxisi/5.jpg'
+      'https://tianyuhao.cn/images/love-weiwei/faxisi/1.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/faxisi/2.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/faxisi/3.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/faxisi/4.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/faxisi/5.jpg'
     ]
   },
 

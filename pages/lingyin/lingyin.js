@@ -6,11 +6,11 @@ Page({
    */
   data: {
     img_list: [
-      'https://tianyuhao.cn/images/xiaochengxu_wei/lingyinsi/1.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/lingyinsi/2.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/lingyinsi/3.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/lingyinsi/4.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/lingyinsi/5.jpg'
+      'https://tianyuhao.cn/images/love-weiwei/lingyinsi/1.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/lingyinsi/2.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/lingyinsi/3.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/lingyinsi/4.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/lingyinsi/5.jpg'
     ]
   },
 

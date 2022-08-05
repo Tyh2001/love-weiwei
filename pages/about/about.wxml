@@ -1,8 +1,8 @@
 <view class="about">
   <view class="about_box">
     <view class="about_user">
-      <image class="my_img_a" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_Z.jpg" />
-      <image class="my_img_b" src="https://tianyuhao.cn/images/xiaochengxu_wei/my-img_T.jpg" />
+      <image class="my_img_a" src="https://tianyuhao.cn/images/love-weiwei/auto/1.jpg" />
+      <image class="my_img_b" src="https://tianyuhao.cn/images/love-weiwei/auto/2.jpg" />
     </view>
 
     <view class="about_option">

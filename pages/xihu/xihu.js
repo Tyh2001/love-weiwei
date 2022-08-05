@@ -6,11 +6,11 @@ Page({
    */
   data: {
     img_list: [
-      'https://tianyuhao.cn/images/xiaochengxu_wei/xihu/1.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/xihu/2.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/xihu/3.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/xihu/4.jpg',
-      'https://tianyuhao.cn/images/xiaochengxu_wei/xihu/5.jpg'
+      'https://tianyuhao.cn/images/love-weiwei/xihu/1.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/xihu/2.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/xihu/3.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/xihu/4.jpg',
+      'https://tianyuhao.cn/images/love-weiwei/xihu/5.jpg'
     ]
   },
 
